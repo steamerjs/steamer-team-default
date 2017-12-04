@@ -4,7 +4,6 @@ steamerjs 默认团队配置
 
 [![NPM Version](https://img.shields.io/npm/v/steamer-team-default.svg?style=flat)](https://www.npmjs.com/package/steamer-team-default)
 [![Deps](https://david-dm.org/steamerjs/steamer-team-default.svg)](https://david-dm.org/steamerjs/steamer-team-default)
-[![Coverage](https://img.shields.io/coveralls/steamerjs/steamer-team-default.svg)](https://coveralls.io/github/steamerjs/steamer-team-default)
 
 ## 配置
 
