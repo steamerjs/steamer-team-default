@@ -31,6 +31,10 @@ let teamConfig = {
         {
             'name': 'steamer-logic-component',
             'git': 'https://github.com/steamerjs/steamer-logic-component.git'
+        },
+        {
+            'name': 'steamer-kit-library',
+            'git': 'https://github.com/steamerjs/steamer-kit-library.git'
         }
     ],
     plugins: [
